@@ -1,2 +1,1 @@
-# .github
-Overview of NeumaAI
+# Zerone
